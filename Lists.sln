@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PayGrades", "PayGrades\PayG
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rankings", "Rankings\Rankings.csproj", "{FC0B969A-B0DD-4640-8E01-AF42E72FDC15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Measurements", "Measurements\Measurements.csproj", "{D0E73E17-2BCA-4782-A46F-399E40D78150}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{FC0B969A-B0DD-4640-8E01-AF42E72FDC15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC0B969A-B0DD-4640-8E01-AF42E72FDC15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC0B969A-B0DD-4640-8E01-AF42E72FDC15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0E73E17-2BCA-4782-A46F-399E40D78150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0E73E17-2BCA-4782-A46F-399E40D78150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0E73E17-2BCA-4782-A46F-399E40D78150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0E73E17-2BCA-4782-A46F-399E40D78150}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
